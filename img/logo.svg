@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g3337"
+       transform="translate(2.9099285,25.01489)">
+      <path
+         style="fill:#8d5fd3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 337.85714,883.51963 C 255.95908,874.74898 182.17933,840.24295 122.60603,782.84895 62.2859,724.73543 23.71918,652.71109 7.755264,568.3622 0.18008657,528.33706 0.66433514,465.07578 8.865482,423.32549 39.472574,267.51134 151.55041,150.46404 301.29694,117.92778 c 32.52735,-7.06739 105.85089,-7.21155 138.16237,-0.27163 154.62263,33.21014 268.57555,154.44458 296.0574,314.97534 4.89409,28.58797 5.60243,41.67943 4.25218,78.58786 -1.77886,48.62425 -5.97412,72.38231 -20.51398,116.1718 -39.62722,119.34491 -138.39057,213.99634 -255.71048,245.06425 -41.22723,10.91755 -88.33474,15.0644 -125.68729,11.06423 z"
+         id="path3340" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:537.73284912px;line-height:931.00061417%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="45.313934"
+         y="621.63153"
+         id="text3350"
+         transform="scale(0.87614808,1.1413596)"><tspan
+           id="tspan3352"
+           x="45.313934"
+           y="621.63153"
+           style="line-height:931.00070953%">KB</tspan></text>
+    </g>
+  </g>
+</svg>
