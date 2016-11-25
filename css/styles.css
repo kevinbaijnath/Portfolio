@@ -1,5 +1,25 @@
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
+body {
+  color: #7d97ad;
+}
+
+#jumbotron{
+  background-color: white;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+#logo {
+  margin-top: 20px;
+}
+
+big-hr {
+  size: 10px;
 }
